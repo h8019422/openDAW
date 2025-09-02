@@ -131,11 +131,11 @@ Before starting, ensure you have the following installed on your system:
 ### Installation
 
 - [ ] `npm run cert` (only for the very first time)
-- [x] `npm run clean` (to revert to clean slate, removes all `node_modules` and `dist` folders)
-* `npm install` (for the first time and after `npm run clean`)
-* `npm run build` (for the first time and after `npm run clean`)
-* `npm run dev:studio` | `npm run dev:headless` (start dev server)
-* Navigate to https://localhost:8080 (port is important > cors sample api)
+- [ ] `npm run clean` (to revert to clean slate, removes all `node_modules` and `dist` folders)
+- [ ] `npm install` (for the first time and after `npm run clean`)
+- [ ] `npm run build` (for the first time and after `npm run clean`)
+- [ ] `npm run dev:studio` | `npm run dev:headless` (start dev server)
+- [ ] Navigate to https://localhost:8080 (port is important > cors sample api)
 
 ### Flow Charts
 
